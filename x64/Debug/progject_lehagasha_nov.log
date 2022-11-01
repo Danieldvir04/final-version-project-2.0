@@ -1,0 +1,15 @@
+﻿  AddoneSnapShot.c
+  addDll.c
+  addProcess.c
+  main.c
+C:\Users\User\source\repos\progject_lehagasha_nov\main.c(25,3): warning C4013: 'addOneSnapShot' undefined; assuming extern returning int
+C:\Users\User\source\repos\progject_lehagasha_nov\main.c(14,7): warning C4101: 'str': unreferenced local variable
+  rebootProcess.c
+C:\Users\User\source\repos\progject_lehagasha_nov\rebootProcess.c(69,12): warning C4098: 'getMemoryInfo': 'void' function returning a value
+C:\Users\User\source\repos\progject_lehagasha_nov\rebootProcess.c(77,11): warning C4098: 'getMemoryInfo': 'void' function returning a value
+C:\Users\User\source\repos\progject_lehagasha_nov\rebootProcess.c(51,7): warning C4101: 'regularCharArr': unreferenced local variable
+C:\Users\User\source\repos\progject_lehagasha_nov\rebootProcess.c(154,11): warning C4098: 'getProcessesInfo': 'void' function returning a value
+C:\Users\User\source\repos\progject_lehagasha_nov\rebootProcess.c(166,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  OneSnapShot.h
+  progject_lehagasha_nov.vcxproj -> C:\Users\User\source\repos\progject_lehagasha_nov\x64\Debug\progject_lehagasha_nov.exe
